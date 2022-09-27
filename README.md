@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyankak17
-- 👀 I’m interested in AI, Blockchain, Robotics and Quantum theory
-- 🌱 I’m currently learning intermediate python and Machine Learning
-- 💞️ I’m looking to collaborate on python and ML projects
+- 👀 I’m interested in AI and Quantum theory
+- 🌱 I’m currently learning intermediate Python and Machine Learning
+- 💞️ I’m looking to collaborate on Python and ML projects
 
 
 <!---
