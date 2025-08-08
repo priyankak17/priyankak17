@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyankak17
 - 👀 I’m interested in AI and Quantum theory
-- 🌱 Currently learning intermediate Python, C++, and Computer Vision
+- 🌱 Currently interested in Python, C++, and Computer Vision
 - 💞️ I’m looking to collaborate on Python, C++, and ML projects
 
 
