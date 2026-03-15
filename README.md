@@ -44,6 +44,55 @@ Building **next-generation generative AI systems** that understand and create mu
 
 ## 🔬 Core Research Interests
 
+┌─ Generative Video Systems
+│  ├─ 🧠 Transformer-based architectures
+│  ├─ 🎨 Diffusion model research
+│  ├─ ⏰ Temporal consistency modeling
+│  └─ 🎥 Text-to-motion-to-video synthesis
+│
+├─ World Models
+│  ├─ 🌍 Environment dynamics learning
+│  ├─ 🎮 Predictive modeling
+│  └─ 🔮 Temporal coherence
+│
+└─ Multimodal AI
+├─ 🔄 Cross-modal fusion
+├─ 👁️ Vision-language models
+└─ 🎵 Audio-visual learning
+
+---
+
+</td>
+<td width="50%">
+
+### ⚙️ Engineering Focus
+
+┌─ Distributed Training
+│  ├─ ⚡ PyTorch DDP (8-GPU clusters)
+│  ├─ 📊 Large-scale dataset pipelines
+│  ├─ 🔬 Systematic experimentation
+│  └─ 📈 Mixed precision training
+│
+├─ Production ML
+│  ├─ 🚀 ONNX deployment
+│  ├─ ⚡ TensorRT optimization
+│  ├─ 📦 Model quantization
+│  └─ 🎯 Inference acceleration
+│
+└─ Research Infrastructure
+├─ 🔧 Experiment tracking
+├─ 📉 Metric dashboards
+└─ 🛠️ Reproducible pipelines
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💫 Expertise Timeline
+
+
 ---
 
 ## 🎯 Technical Arsenal
@@ -114,7 +163,7 @@ Building **next-generation generative AI systems** that understand and create mu
 ### 🏅 Hackathon
 **AI Encode London Winner**
 
-⚡ Built real-time AI prototype in 48 hours
+⚡ Built a real-time AI prototype in 48 hours
 
 🚀 Production-ready system demo
 
@@ -125,32 +174,13 @@ Building **next-generation generative AI systems** that understand and create mu
 ---
 
 ## 💡 Featured Projects
-```python
-class PriyankaKamila:
-    def __init__(self):
-        self.current_work = [
-            "🎬 Text-to-Video Generation Pipeline",
-            "🌍 World Model Architecture for Environment Dynamics",
-            "🎭 Multimodal Face Generation with Cross-modal Fusion",
-            "⚡ Real-time Video Stylization System (TensorRT)",
-            "🤖 Interactive AI Prototype (48hr Hackathon Winner)"
-        ]
-        
-        self.research_focus = {
-            "short_term": "Temporal consistency in video diffusion models",
-            "mid_term": "Scalable world models for embodied AI",
-            "long_term": "Unified multimodal foundation models"
-        }
-        
-    def seeking_collaborations_on(self):
-        return [
-            "🌍 World models & environment simulators",
-            "🎥 Video prediction & generation systems",
-            "🔄 Multimodal foundation models",
-            "⏰ Temporal reasoning & long-context models",
-            "🎮 Interactive & real-time AI applications"
-        ]
-```
+### 🎭 Cross-modal Face Generation
+> MSc Dissertation: Latent fusion for multimodal synthesis  
+> **Tech:** VAEs • Cross-modal Fusion • PyTorch  
+> **Status:** Published Research
+
+
+---
 
 ---
 
