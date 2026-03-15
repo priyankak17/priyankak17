@@ -31,7 +31,7 @@ Building **next-generation generative AI systems** that understand and create mu
 <td width="50%" valign="top">
 
 ### ⚙️ **Production ML Systems**
-🔸 Distributed training pipelines (PyTorch DDP, 8-GPU clusters)  
+🔸 Distributed training pipelines (PyTorch DDP)  
 🔸 ONNX & TensorRT deployment optimization  
 🔸 Large-scale dataset engineering and preprocessing  
 🔸 Model quantization and inference acceleration  
