@@ -44,6 +44,13 @@ Building **next-generation generative AI systems** that understand and create mu
 
 ## 🔬 Core Research Interests
 
+🌍 World Models          ━━━━━━━━━━━━━━━━━━━━━  Learning environment dynamics & temporal coherence
+🎥 Video Generation      ━━━━━━━━━━━━━━━━━━━━━  Diffusion-based synthesis, motion generation
+🔄 Multimodal Learning   ━━━━━━━━━━━━━━━━━━━━━  Audio-visual fusion, vision-language models
+⚡ Scalable Training     ━━━━━━━━━━━━━━━━━━━━━  Distributed systems, efficient architectures
+🤖 Interactive AI        ━━━━━━━━━━━━━━━━━━━━━  Real-time generation, human-AI collaboration
+
+
 ┌─ Generative Video Systems
 │  ├─ 🧠 Transformer-based architectures
 │  ├─ 🎨 Diffusion model research
