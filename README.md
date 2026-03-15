@@ -60,7 +60,7 @@ Building **next-generation generative AI systems** that understand and create mu
 ├─ 🔄 Cross-modal fusion
 ├─ 👁️ Vision-language models
 └─ 🎵 Audio-visual learning
-<pre>
+</pre>
 
 ---
 
@@ -87,7 +87,7 @@ Building **next-generation generative AI systems** that understand and create mu
 ├─ 🔧 Experiment tracking
 ├─ 📉 Metric dashboards
 └─ 🛠️ Reproducible pipelines
-<pre>
+</pre>
   
 </td>
 </tr>
