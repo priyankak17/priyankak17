@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Priyanka Kamila. 
 
-### My work focuses on building and experimenting with models that generate temporally coherent video from structured inputs such as text, images, or motion signals.
 
 **Machine Learning Engineer & Applied Researcher** | Multimodal Generative Systems & Video Understanding
 
