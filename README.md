@@ -6,7 +6,7 @@
 **Multimodal Generative Systems • Video Understanding • World Models**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00f0ff?style=for-the-badge)](https://priyankak17.github.io/pynk17/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077b5?style=for-the-badge)](https://linkedin.com/in/priyankakamila)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077b5?style=for-the-badge)](https://www.linkedin.com/in/priyanka-kamila/)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-ff00e5?style=for-the-badge)](mailto:kamilapriyanka17@gmail.com)
 
 </div>
@@ -226,7 +226,7 @@ I'm actively seeking opportunities to collaborate on cutting-edge research probl
 ### Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-priyankak17.github.io-00f0ff?style=for-the-badge)](https://priyankak17.github.io/pynk17/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Priyanka_Kamila-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/priyankakamila)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Priyanka_Kamila-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanka-kamila/)
 [![Email](https://img.shields.io/badge/📧_Email-kamilapriyanka17@gmail.com-ff00e5?style=for-the-badge&logo=gmail)](mailto:kamilapriyanka17@gmail.com)
 
 </div>
