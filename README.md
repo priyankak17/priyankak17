@@ -22,7 +22,7 @@ Building **next-generation generative AI systems** that understand and create mu
 <td width="50%" valign="top">
 
 ### 🎬 **Generative Video Research**
-🔹 Transformer-based architectures for text→motion→video synthesis  
+🔹 Transformer-based architectures for text→video synthesis  
 🔹 Diffusion models for temporal consistency and coherence  
 🔹 Long-range dependency modeling in video sequences  
 🔹 Cross-modal fusion for unified multimodal representations  
