@@ -15,7 +15,7 @@
 
 ## 🚀 What I'm Building
 
-Building **next-generation generative AI systems** that understand and create multimodal content — from text to motion to photorealistic video.
+Building **next-generation generative AI systems** that understand and create multimodal content from text to motion to photorealistic video.
 
 <table>
 <tr>
@@ -90,10 +90,6 @@ Building **next-generation generative AI systems** that understand and create mu
 
 ---
 
-## 💫 Expertise Timeline
-
-
----
 
 ## 🎯 Technical Arsenal
 
