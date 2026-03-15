@@ -44,13 +44,7 @@ Building **next-generation generative AI systems** that understand and create mu
 
 ## 🔬 Core Research Interests
 
-🌍 World Models          ━━━━━━━━━━━━━━━━━━━━━  Learning environment dynamics & temporal coherence
-🎥 Video Generation      ━━━━━━━━━━━━━━━━━━━━━  Diffusion-based synthesis, motion generation
-🔄 Multimodal Learning   ━━━━━━━━━━━━━━━━━━━━━  Audio-visual fusion, vision-language models
-⚡ Scalable Training     ━━━━━━━━━━━━━━━━━━━━━  Distributed systems, efficient architectures
-🤖 Interactive AI        ━━━━━━━━━━━━━━━━━━━━━  Real-time generation, human-AI collaboration
-
-
+<pre>
 ┌─ Generative Video Systems
 │  ├─ 🧠 Transformer-based architectures
 │  ├─ 🎨 Diffusion model research
@@ -66,6 +60,7 @@ Building **next-generation generative AI systems** that understand and create mu
 ├─ 🔄 Cross-modal fusion
 ├─ 👁️ Vision-language models
 └─ 🎵 Audio-visual learning
+<pre>
 
 ---
 
@@ -74,6 +69,8 @@ Building **next-generation generative AI systems** that understand and create mu
 
 ### ⚙️ Engineering Focus
 
+
+<pre>
 ┌─ Distributed Training
 │  ├─ ⚡ PyTorch DDP (8-GPU clusters)
 │  ├─ 📊 Large-scale dataset pipelines
@@ -90,7 +87,8 @@ Building **next-generation generative AI systems** that understand and create mu
 ├─ 🔧 Experiment tracking
 ├─ 📉 Metric dashboards
 └─ 🛠️ Reproducible pipelines
-
+<pre>
+  
 </td>
 </tr>
 </table>
@@ -205,7 +203,7 @@ I'm actively seeking opportunities to collaborate on cutting-edge research probl
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <div align="center">
 
@@ -213,9 +211,9 @@ I'm actively seeking opportunities to collaborate on cutting-edge research probl
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankak17&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&text_color=ffffff)
 
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ## 📍 Location & Contact
 
