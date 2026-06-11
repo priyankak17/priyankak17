@@ -138,45 +138,49 @@ Building **next-generation generative AI systems** that understand and create mu
 
 ## 🏆 Notable Achievements
 
+<div align="center">
+
+### 🎤 Speaker — AI Summit London · 2026
+
+**Run | Keeping Models Reliable in Live Systems**
+*Tobacco Dock, London*
+
+Practical strategies for deploying and maintaining reliable AI systems in production,
+presented to delegates, AI leaders, researchers, and engineering leaders.
+</div>
+
 <table>
 <tr>
-<td width="33%" align="center">
-
-### 🎤 Industry Talks
-
-AI Summit London Speaker
-
-| Event | Talk | Year |
-|---------|---------|---------|
-| AI Summit London | Running & Keeping Models Reliable in Live Systems | 2026 |
-
-Presented at AI Summit London (Tobacco Dock, London) on practical strategies for deploying and maintaining reliable AI systems in production environments to delegates, AI leaders, researchers, and engineering leaders. Topics included production AI monitoring, model evaluation, drift detection, and operational reliability.
+<td width="33%" valign="top" align="center">
 
 ### 🎓 Academic
-**MSc Computer Vision,<br>Robotics & ML**  
+
+**MSc Computer Vision,<br>Robotics & ML**
 *University of Surrey*
 
 📄 Dissertation: Cross-modal latent fusion for multimodal face generation
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center">
 
 ### 📚 Publications
+
 **2 Research Papers**
 
-✨ Generative AI Architectures<br>*(AI Accelerator Institute, 2024)*
+✨ Generative AI Architectures<br>*AI Accelerator Institute, 2024*
 
-🔬 Computer Vision Systems<br>*(IJESC, 2019)*
+🔬 Computer Vision Systems<br>*IJESC, 2019*
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top" align="center">
 
 ### 🏅 Hackathon
+
 **AI Encode London Winner**
 
-⚡ Built a real-time AI prototype in 48 hours
+⚡ Real-time AI prototype<br>built in 48 hours
 
-🚀 Production-ready system demo
+🚀 Production-ready<br>system demo
 
 </td>
 </tr>
