@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Priyanka Kamila
 
 ### Machine Learning Engineer & Applied Researcher
-**Multimodal Generative Systems • Video Understanding • World Models**
+**Multimodal Generative Systems • Video Understanding • World Models • Conference Speaker**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00f0ff?style=for-the-badge)](https://priyankak17.github.io/pynk17/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077b5?style=for-the-badge)](https://www.linkedin.com/in/priyanka-kamila/)
@@ -141,6 +141,16 @@ Building **next-generation generative AI systems** that understand and create mu
 <table>
 <tr>
 <td width="33%" align="center">
+
+### 🎤 Industry Talks
+
+AI Summit London Speaker
+
+| Event | Talk | Year |
+|---------|---------|---------|
+| AI Summit London | Running & Keeping Models Reliable in Live Systems | 2026 |
+
+Presented at AI Summit London (Tobacco Dock, London) on practical strategies for deploying and maintaining reliable AI systems in production environments to delegates, AI leaders, researchers, and engineering leaders. Topics included production AI monitoring, model evaluation, drift detection, and operational reliability.
 
 ### 🎓 Academic
 **MSc Computer Vision,<br>Robotics & ML**  
