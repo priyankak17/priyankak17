@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Priyanka Kamila
 
-### Machine Learning Engineer & Applied Researcher
+### Machine Learning Engineer & Applied Researcher | GPU Inference & MLOps
 **Multimodal Generative Systems • Video Understanding • World Models • Conference Speaker**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00f0ff?style=for-the-badge)](https://priyankak17.github.io/pynk17/)
@@ -12,6 +12,25 @@
 [![Email](https://img.shields.io/badge/📧_Email-Contact-ff00e5?style=for-the-badge)](mailto:kamilapriyanka17@gmail.com)
 
 </div>
+
+---
+
+## 🚀 Featured Production ML Project — Naruto Diffusion Inference & MLOps
+
+**[View architecture, source code and tests](https://github.com/priyankak17/naruto-diffusion-mlops)**
+
+Deployed a fine-tuned **Stable Diffusion 1.5** image-generation model behind an authenticated **FastAPI** endpoint, with a separate **Modal NVIDIA T4 GPU worker** running **PyTorch and Hugging Face Diffusers**.
+
+- **Inference architecture:** CPU API gateway validates requests and dispatches GPU generation; responses return PNG images and inference/VRAM measurements.
+- **Cost-aware serving:** FP16 inference, persistent model-file cache, and GPU scale-to-zero when idle. Cold starts remain a latency trade-off.
+- **Reproducibility & quality:** Pinned model/tokenizer commit revisions, dependency versions, GPU-free API tests, Ruff and GitHub Actions quality checks.
+- **Validation:** Real image-generation smoke test completed on Modal separately from mocked CI tests.
+
+| Initial measured GPU inference | End-to-end request | Peak GPU VRAM |
+|---|---|---|
+| **1.14–1.49 s** | **18.22–32.64 s** | **2.73–2.75 GiB** |
+
+*Initial individual runs, not production p95/SLO metrics. Current next steps: request tracing, structured logs, load/latency and cost-per-image benchmarks.*
 
 ---
 
